@@ -8,9 +8,9 @@
   <a href="mailto:oakaarush@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-Building **agentic systems** and the **backend infrastructure** underneath themâ€”focused on agent harnesses, retrieval pipelines, and low-latency services.
+Building **agentic systems** and the **backend infrastructure** underneath them. Focused on agent harnesses, retrieval pipelines, and low-latency services that hold up in production.
 
-* **Previously (AI Intern):** Owned a product's backend and agentic stackâ€”built agentic retrieval over PostgreSQL, tool routing, context management, and decoupled background compute for parallel optimization algorithms.
+* **Previously (AI Intern):** Owned a product's backend and agentic stack. Built agentic retrieval over PostgreSQL, tool routing, context management, and decoupled background compute for parallel optimization algorithms.
 
 ## Projects
 
@@ -18,7 +18,7 @@ Building **agentic systems** and the **backend infrastructure** underneath themâ
 | :--- | :--- | :--- |
 | [**Heimdall**](https://github.com/prathameshk421/Heimdall) | Automated PR verification & merge gate running red-first tests in rootless Podman sandboxes | `Go` `Podman` `PostgreSQL` |
 | [**LoadLine**](https://github.com/aarush323/LoadLine) | Capacity agent that runs `k6` load tests in Docker, patches bottlenecks, and opens PRs only if metrics improve | `Python` `Pydantic AI` `k6` `Docker` |
-| [**markoblitz**](https://github.com/Namz10/markoblitz) | Adversarial payment-fraud simulator & detection pipeline (**0.9985 PR-AUC**, **0.032% FPR**) | `Python` `PostgreSQL` |
+| [**HoH**](https://github.com/aarush323/HoH) | Pre-delinquency engine combining a `LightGBM + GRU` ensemble (`SHAP`) with a `LangGraph` compliance/routing chain and HITL voice agent over `Kafka` | `Python` `LangGraph` `Kafka` `PostgreSQL` `Redis` `Cassandra` |
 | [**Foresight**](https://github.com/aarush323/Foresight) | Multi-agent predictive fleet maintenance & root-cause analysis over real-time telemetry | `Python` `LangGraph` `FastAPI` |
 
 ## Achievements
@@ -27,7 +27,7 @@ Building **agentic systems** and the **backend infrastructure** underneath themâ
 | :--- | :--- | :--- |
 | **Lexsi Hackathon** | **Top 10%** (Top 35 / ~400) | Post-trained `tiny-aya-global` (3.35B) for frugal multi-turn SQLite tool-calling (`frugal-analyst`) |
 | **Amazon ML Challenge '26** | **Rank 677** / ~24,000 | Fine-tuned multilingual entity resolution pipeline (**0.984 F0.5** across 1.7M Ã— 10M records) |
-| **Barclays Hack-O-Hire '26** | **Top 10 National Finalist** | Multi-agent pre-delinquency engine (`LangGraph`, `LightGBM/GRU`, `Kafka`, `Redis` SSE) |
+| **Barclays Hack-O-Hire '26** | **Top 10 National Finalist** | Built [**HoH**](https://github.com/aarush323/HoH), a streaming pre-delinquency intervention engine with compliance hard-stops and a voice agent |
 
 ## Stack
 
