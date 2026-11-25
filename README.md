@@ -1,29 +1,39 @@
 ![banner](./header.svg)
 
-i build agentic systems and the backend infrastructure underneath them. mostly focused on agent harnesses, retrieval pipelines, and low-latency services that hold up in production.
+<p align="left">
+  <a href="https://www.linkedin.com/in/aarush-oak/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mrx123444"><img src="https://img.shields.io/badge/X-161b22?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://huggingface.co/aarush323"><img src="https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" /></a>
+  <a href="https://leetcode.com/u/wreck323/"><img src="https://img.shields.io/badge/LeetCode-161b22?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:oakaarush@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- **previously (ai intern):** owned and built a product's backend and agentic stack. engineered agentic retrieval over postgresql, tool routing, and context management, alongside decoupled background compute to run parallel optimization algorithms without blocking live apis.
+Building **agentic systems** and the **backend infrastructure** underneath them—focused on agent harnesses, retrieval pipelines, and low-latency services.
 
-### projects
+* **Previously (AI Intern):** Owned a product's backend and agentic stack—built agentic retrieval over PostgreSQL, tool routing, context management, and decoupled background compute for parallel optimization algorithms.
 
-| repo | what it does | stack |
-|---|---|---|
-| [**heimdall**](https://github.com/prathameshk421/Heimdall) | automated pr verification & merge gate running red-first tests inside rootless podman sandboxes | `go` `podman` `postgresql` |
-| [**loadline**](https://github.com/aarush323/LoadLine) | capacity agent that runs `k6` load tests in docker, patches bottlenecks, and opens a pr only if metrics improve | `python` `pydantic ai` `k6` `docker` |
-| [**markoblitz**](https://github.com/Namz10/markoblitz) | adversarial payment-fraud simulator & detection pipeline (`0.9985` pr-auc, `0.032%` fpr on time-cut holdout) | `python` `postgresql` |
-| [**foresight**](https://github.com/aarush323/Foresight) | multi-agent predictive fleet maintenance & root-cause analysis over real-time telemetry streams | `python` `langgraph` `fastapi` |
+## Projects
 
-### stack
+| Project | Overview | Stack |
+| :--- | :--- | :--- |
+| [**Heimdall**](https://github.com/prathameshk421/Heimdall) | Automated PR verification & merge gate running red-first tests in rootless Podman sandboxes | `Go` `Podman` `PostgreSQL` |
+| [**LoadLine**](https://github.com/aarush323/LoadLine) | Capacity agent that runs `k6` load tests in Docker, patches bottlenecks, and opens PRs only if metrics improve | `Python` `Pydantic AI` `k6` `Docker` |
+| [**markoblitz**](https://github.com/Namz10/markoblitz) | Adversarial payment-fraud simulator & detection pipeline (**0.9985 PR-AUC**, **0.032% FPR**) | `Python` `PostgreSQL` |
+| [**Foresight**](https://github.com/aarush323/Foresight) | Multi-agent predictive fleet maintenance & root-cause analysis over real-time telemetry | `Python` `LangGraph` `FastAPI` |
 
-- **ai / ml:** `rag systems` · `agent harnesses` · `post-training` · `evals` · `langgraph` · `pydantic ai` · `vector dbs`
-- **backend & infra:** `go` · `python` · `c++` · `fastapi` · `postgresql` · `kafka` · `redis` · `docker` · `kubernetes`
+## Achievements
 
-### highlights
+| Competition | Result | Work |
+| :--- | :--- | :--- |
+| **Lexsi Hackathon** | **Top 10%** (Top 35 / ~400) | Post-trained `tiny-aya-global` (3.35B) for frugal multi-turn SQLite tool-calling (`frugal-analyst`) |
+| **Amazon ML Challenge '26** | **Rank 677** / ~24,000 | Fine-tuned multilingual entity resolution pipeline (**0.984 F0.5** across 1.7M × 10M records) |
+| **Barclays Hack-O-Hire '26** | **Top 10 National Finalist** | Multi-agent pre-delinquency engine (`LangGraph`, `LightGBM/GRU`, `Kafka`, `Redis` SSE) |
 
-- **lexsi hackathon (top 10%, top 35 / ~400 teams):** post-trained `tiny-aya-global` (3.35b) for frugal multi-turn sqlite tool-calling (`frugal-analyst`)
-- **amazon ml challenge '26 (rank 677 / ~24,000 teams):** fine-tuned entity resolution pipeline (`0.984` f0.5 across 1.7m × 10m multilingual records)
-- **barclays hack-o-hire '26:** top 10 national finalist (multi-agent pre-delinquency engine with `langgraph`, `lightgbm/gru`, `kafka`, and `redis` sse)
+## Stack
 
-![contribution skyline](./dist/skyline.svg)
+* **AI / ML:** `RAG Systems` · `Agent Harnesses` · `Post-Training` · `Evals` · `LangGraph` · `Pydantic AI` · `Vector DBs`
+* **Backend & Infra:** `Go` · `Python` · `C++` · `FastAPI` · `PostgreSQL` · `Kafka` · `Redis` · `Docker` · `Kubernetes`
 
-[linkedin](https://www.linkedin.com/in/aarush-oak/) · [x](https://x.com/mrx123444) · [huggingface](https://huggingface.co/aarush323) · [leetcode](https://leetcode.com/u/wreck323/) · [email](mailto:oakaarush@gmail.com)
+---
+
+![Contribution City](./dist/skyline.svg)
