@@ -36,8 +36,4 @@ Building **agentic systems** and the **backend infrastructure** underneath them.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarush323&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=css,html,java" alt="Top Languages" />
-</p>
-
 [https://ssr-contributions-svg.vercel.app/_/aarush323?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native]
