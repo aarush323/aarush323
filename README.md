@@ -1,4 +1,4 @@
-[./header.svg]
+<img src="https://raw.githubusercontent.com/aarush323/aarush323/main/header.svg" width="100%" alt="banner" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aarush-oak/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
