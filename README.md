@@ -1,4 +1,4 @@
-![banner](./header.svg)
+[./header.svg]
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aarush-oak/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -10,7 +10,7 @@
 
 Building **agentic systems** and the **backend infrastructure** underneath them. Focused on agent harnesses, retrieval pipelines, and low-latency services that hold up in production.
 
-* **Previously (AI Intern):** Owned a product's backend and agentic stack. Built agentic retrieval over PostgreSQL, tool routing, context management, and decoupled background compute for parallel optimization algorithms.
+- **Previously (AI Intern):** Owned a product's backend and agentic stack. Built agentic retrieval over PostgreSQL, tool routing, context management, and decoupled background compute for parallel optimization algorithms.
 
 ## Projects
 
@@ -31,9 +31,13 @@ Building **agentic systems** and the **backend infrastructure** underneath them.
 
 ## Stack
 
-* **AI / ML:** `RAG Systems` · `Agent Harnesses` · `Post-Training` · `Evals` · `LangGraph` · `Pydantic AI` · `Vector DBs`
-* **Backend & Infra:** `Go` · `Python` · `C++` · `FastAPI` · `PostgreSQL` · `Kafka` · `Redis` · `Docker` · `Kubernetes`
+- **AI / ML:** `RAG Systems` · `Agent Harnesses` · `Post-Training` · `Evals` · `LangGraph` · `Pydantic AI` · `Vector DBs`
+- **Backend & Infra:** `Go` · `Python` · `C++` · `FastAPI` · `PostgreSQL` · `Kafka` · `Redis` · `Docker` · `Kubernetes`
 
 ---
 
-![Contribution City](./dist/skyline.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarush323&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=css,html,java" alt="Top Languages" />
+</p>
+
+[./dist/skyline.svg]
